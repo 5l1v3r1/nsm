@@ -1,9 +1,9 @@
 # nsm
 Nessus Statistics Maker
 ## Instructions
-1. In the Excel Nessus report do a CTRL+F, click "Replace" tab and "Replace All"
-2. In the Search Box input put the cursor and hit CTRL+j
-  In the Replace With input box, put comma and space: ", "
+1. In the Excel Nessus report do a ```CTRL+F```, click "Replace" tab and "Replace All"
+2. In the Search Box input put the cursor and hit ```CTRL+j```
+  In the Replace With input box, put comma and space: ```, ```
   without the quotes.
 3. Save the file as CSV
 4. Pass file as argument to this script.
